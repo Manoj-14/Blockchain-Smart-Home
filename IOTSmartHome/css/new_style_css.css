@@ -1,0 +1,21 @@
+﻿.form-container {
+    background-image: url('../images/Smart Home.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.form-container form {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black !important;
+}
+
+form input:active{
+    border-color:green !important;
+}
+
+#lblMsg{
+    text-align:center !important;
+  
+}
